@@ -14,7 +14,7 @@
     <br>
 <a href='https://dashboard.heroku.com/new?button-url=https://github.com/darkdevil3610/Gourav-Simple-MD&template=https://github.com/darkdevil3610/Gourav-Simple-MD.git' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
-<button class="link3" onclick='location.href="https://replit.com/new?button-url=https://replit.com/github/darkdevil3610/Gourav-Simple-MD-Replit&template=https://github.com/darkdevil3610/Gourav-Simple-MD-Replit"'>𝑫𝑬𝑷𝑳𝑶𝒀 on REPLIT</button>
+𝑫𝑬𝑷𝑳𝑶𝒀 on REPLIT ==> [Deploy on Replit](https://replit.com/github/darkdevil3610/Gourav-Simple-MD-Replit),
 
 
 <a href="https://chat.whatsapp.com/"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-black?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
